@@ -1,1 +1,1 @@
-# Projet-Pynomaly
+# Pynomaly
